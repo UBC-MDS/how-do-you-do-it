@@ -5,7 +5,7 @@ Talk for UBC's Data Science & Health 2020 event
 
 - Talk recording (to be posted soon)
 - [Talk slides]()
-- [Interactive Jupyter notebook (UBC only)]() (click [here]() for non-UBC access)
+- [Interactive Jupyter notebook (UBC only)](https://ubc.syzygy.ca/jupyterhub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUBC-MDS%2Fhow-do-you-do-it&urlpath=lab%2Ftree%2Fhow-do-you-do-it%2Fds-and-health.ipynb&branch=master) (click [here]() for non-UBC access)
 - [Jupyter notebook as a PDF]() 
 - [Jupyter notebook source]()
 
