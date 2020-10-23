@@ -11,3 +11,16 @@ Talk for UBC's Data Science & Health 2020 event
 
 ### License Information
 [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+### Data Attribution
+
+Data from UCI ML repository, heart disease dataset: https://archive.ics.uci.edu/ml/datasets/heart+disease.
+
+
+Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
+
+The authors of the databases have requested that any publications resulting from the use of the data include the names of the principal investigator responsible for the data collection at each institution. They would be:
+1. Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
+2. University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.
+3. University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D.
+4. V.A. Medical Center, Long Beach and Cleveland Clinic Foundation:Robert Detrano, M.D., Ph.D.
